@@ -77,8 +77,8 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd ggi-backend-test
+git clone [<your-repo-url>](https://github.com/aalipak/AamnaAli-GGi-.git)
+cd AamnaAli-GGi-
 ```
 
 2. Install dependencies:
@@ -366,3 +366,4 @@ Aamna Ali
 ## Submission
 
 This project was created as part of the GGI Backend Test assignment, demonstrating proficiency in TypeScript, Clean Architecture, Domain-Driven Design, and REST API development.
+
